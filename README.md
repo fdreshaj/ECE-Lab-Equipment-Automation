@@ -1,5 +1,5 @@
 # ECE-Lab-Equipment-Automation
-Making this repository in case anyone needs to do a lot of measurements on campus lab equipment and wants to be able to controll the equipment via laptop/pc. 
+Making this repository in case anyone needs to do a lot of measurements on campus lab equipment and wants to be able to control the equipment via laptop/pc. 
 
 Currently only confirmed it works with **USB** connections, will extend functionality to Ethernet/LAN in the future as well.
 
